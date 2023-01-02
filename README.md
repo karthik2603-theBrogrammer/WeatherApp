@@ -1,4 +1,4 @@
-# Weather_Tracker
+# WeatherApp -- A weather web application
 A Weather Tracking Web Application called WeatherApp using Vanilla Javascript
 
 Check It Out Here!;
